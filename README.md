@@ -1,3 +1,5 @@
+![Imagen de ejemplo](imagen_de_ejemplo.png)
+
 # Task-Manager
 Task-Manager es una aplicación de terminal desarrollada en Python para gestionar tareas de manera eficiente y organizada. Con esta herramienta, puedes agregar, eliminar, actualizar y ver tus tareas pendientes, todo desde la línea de comandos.
 
